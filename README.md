@@ -8,6 +8,9 @@ Graceful degradation and service workers both aim to enhance web user experience
 
 
 
+<img width="1798" alt="pwa" src="https://github.com/ar-dutta2026/Lab8/assets/112745073/6ee0c288-d2d1-4ad3-9914-cd599715627a">
+
+
 
 
 
