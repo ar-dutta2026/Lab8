@@ -1,5 +1,5 @@
 # Lab8-Starter
-Aritra Dutta
+Aritra Dutta, Elijah Hosaka
 
 URL: https://ar-dutta2026.github.io/Lab8/ 
 
